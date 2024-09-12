@@ -1,0 +1,20 @@
+{
+    "Furniture": [
+        {
+            "Name": "Chair",
+            "Price": "$28000",
+            "Description": "A comfy chair that’s sturdy, yet lightweight and stackable too. An easy match with different tables and styles and eager to please, whether it’s in the dining room, in the entrance or by your bed.",
+            "ImageLocation": "./chair.png"
+        }, {
+            "Name": "Table",
+            "Price": "$199000",
+            "Description": "Less risk of children hitting their head as the table has rounded corners.",
+            "ImageLocation": "./table.png"
+        }, {
+            "Name": "Closet",
+            "Price": "$169000",
+            "Description": "Simple and smart! When all you need is a wardrobe with all the basic functions. If storage space is still not enough, why not add another wardrobe from the KLEPPSTAD series?",
+            "ImageLocation": "./closet.png"
+        }
+    ]
+}
